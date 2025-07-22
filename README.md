@@ -20,7 +20,6 @@ The final outputs (GDS, DEF, LEF, netlist, and layout views) are included in thi
 ## 🔗 Source of RTL
 The Verilog source code for the `I2C_MASTER_TOP` module was originally taken from the following open-source repository:
 
-**https://github.com/freecores/i2c**
 
 We used only the top-level module (`i2c_master_top.v`) in our implementation.
 
